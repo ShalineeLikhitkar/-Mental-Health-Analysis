@@ -2,6 +2,9 @@
 
 This Power BI dashboard explores various factors affecting mental health such as sleep, stress, therapy, and support systems.
 
+Dashboard:
+![Screenshot 2025-05-28 233402](https://github.com/user-attachments/assets/c00f8cab-7ee0-489a-882e-798a0efe2735)
+
 
 
 ## 📊 Tools Used
